@@ -1,6 +1,8 @@
 # Edit HDR gamma
 *Automator App for editing HDR gamma of images in MacOS photo gallery.*
 
+**UPDATE**: It is not compatible with iOS17 and MacOS Sonoma due to changes in HDR processing.
+
 If you take photos on your iPhone 13 and Sony Alpha, you may have noticed that photos taken with the iPhone 13 tend to look brighter and crisper than photos taken with Sony when displayed in the stock Photos app. It harnesses the power of XDR display that is capable to show up to 1600 nits of light output. But photos taken with Sony are displayed in the usual SDR range and look flat.
 
 This application will make your Sony photos magically look best with just one click (ok, that wasn't true, three clicks)
